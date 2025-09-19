@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "Taunahi",
+    "description": "The best collection of scripts for Hypixel Skyblock",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Alex"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
